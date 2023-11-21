@@ -4,8 +4,9 @@
 [Visualization Tableau](https://public.tableau.com/authoring/Analysisofadvertisingsourcesofmobilegame/Dashboard1#1)
 
 
-### Purpose of work
+### Purpose of work:
 Identify the best acquisition channels for optimizing expenses and make dashboard in Tableau 
+
 
 **Tech Stack:** python, pandas, numpy, scipy, plotly, A/B test, tableau
 
