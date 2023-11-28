@@ -1,4 +1,4 @@
-# **Analytical Dashboard: "Analysis of Inventory, Sales, and Turnover"**
+# **Analytical Marketplace Dashboard: "Analysis of Inventory, Sales, and Turnover"**
 
 [Dashboard Datalens](https://datalens.yandex/6acbrxtabbzev)
 
