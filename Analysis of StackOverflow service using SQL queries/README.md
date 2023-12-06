@@ -2,7 +2,7 @@
 
 [Jupyter Notebook](https://github.com/Kristina-Ponomareva/my_projects/blob/main/Analysis%20of%20StackOverflow%20service%20using%20SQL%20queries/StackOverflow%20queries.ipynb)
 
-[SQL file]
+[SQL file](https://github.com/Kristina-Ponomareva/my_projects/blob/main/Analysis%20of%20StackOverflow%20service%20using%20SQL%20queries/stackoverflow.sql)
 
 
 ### Description:
